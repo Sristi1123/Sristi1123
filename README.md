@@ -1,13 +1,10 @@
-# Hi, I'm Sristi 👋
+# Hi, I'm Sristi 👋✨
 
 ## 🔥 GitHub Streak
 
-<h2 align="center">🔥 GitHub Streak</h2>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sristi1123&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Sristi1123&theme=dark&cache_seconds=1" alt="GitHub Streak" />
 </p>
-
 ## 📈 Contribution Graph
 
 [![Sristi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sristi1123&theme=react-dark)](https://github.com/Sristi1123)
