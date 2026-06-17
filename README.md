@@ -2,11 +2,11 @@
 
 ## 🔥 GitHub Streak
 
-<div align="center">
+<h2 align="center">🔥 GitHub Streak</h2>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sristi1123&theme=dark)](https://git.io/streak-stats)
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sristi1123&theme=dark" alt="GitHub Streak" />
+</p>
 
 
 ## 📈 Contribution Graph
