@@ -5,9 +5,8 @@
 <h2 align="center">🔥 GitHub Streak</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sristi1123&theme=dark" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Sristi1123&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
-
 
 ## 📈 Contribution Graph
 
