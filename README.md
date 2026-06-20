@@ -1,7 +1,9 @@
 # Hi, I'm Sristi 👋✨
 
 ## 🔥 GitHub Streak
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sristi1123&theme=dark&hide_border=true&v=3" alt="GitHub Streak" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Sristi1123&theme=dark&cache_seconds=1" alt="GitHub Streak" />
