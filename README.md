@@ -2,7 +2,6 @@
 
 ## 🔥 GitHub Streak
 
-## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Sristi1123&theme=dark&cache_seconds=1" alt="GitHub Streak" />
